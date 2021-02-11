@@ -1,0 +1,45 @@
+* {
+    color: white;
+}
+
+*:active,
+*:focus {
+    outline: none;
+}
+
+.employeeName{
+    display: block;
+    text-align: center;
+}
+
+.employeeItems {
+    display: flex;
+    justify-content: space-between;
+    width: 50%;
+    align-items: center;
+    padding: 5px 5px 5px 20px;
+    background-color: #c3e1ee;
+    border: 7px;
+}
+
+.employeeItems:hover {
+    background-color: #babdf5;
+}
+
+.deleteEmployee{
+    width: 35px;
+    height: 35px;
+    padding: 0 0 0 4px;
+    align-self: flex-start;
+    background-color: #1c2126;
+    border-radius: 15px;
+    border: none;
+}
+
+.deleteEmployee:hover {
+    background-color: red;
+}
+
+.employeeItem:hover {
+    background-color: #6495ed;
+}

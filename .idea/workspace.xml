@@ -1,0 +1,303 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f0f7d8ed-36fc-4dc4-866d-1f94808bd378" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1ibIy0jjmetqEBQtXjBDK3kobZ6" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="full.screen.before.presentation.mode" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\nasty\WebstormProjects\react_task_shop\src\components" />
+      <recent name="C:\Users\nasty\WebstormProjects\react_task_shop\src\components\Icon" />
+      <recent name="C:\Users\nasty\WebstormProjects\react_task_shop\src" />
+      <recent name="C:\Users\nasty\WebstormProjects\react_task_shop\src\ProductList\ProductInfo" />
+      <recent name="C:\Users\nasty\WebstormProjects\react_task_shop\src\ProductList" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\nasty\Desktop\test_resliv\test1\src\components\HomePage" />
+      <recent name="C:\Users\nasty\Desktop\test_resliv\test1\src\components\Header" />
+      <recent name="C:\Users\nasty\WebstormProjects\react_task_shop\src\components\Icon\img" />
+      <recent name="C:\Users\nasty\WebstormProjects\react_task_shop\src\components\Icon" />
+      <recent name="C:\Users\nasty\WebstormProjects\react_task_shop\src\ProductList\ProductItem" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Node.js.Counter.jsx">
+    <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:3000">
+      <method v="2" />
+    </configuration>
+    <configuration name="Counter.jsx" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/components/Counter/Counter.jsx" working-dir="$PROJECT_DIR$/src/components/Counter">
+      <method v="2" />
+    </configuration>
+    <configuration name="npm start" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.Counter.jsx" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\nasty\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f0f7d8ed-36fc-4dc4-866d-1f94808bd378" name="Default Changelist" comment="" />
+      <created>1601133151610</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601133151610</updated>
+      <workItem from="1601133154400" duration="21553000" />
+      <workItem from="1601815771843" duration="1515000" />
+      <workItem from="1601817336031" duration="1800000" />
+      <workItem from="1602007583224" duration="1694000" />
+      <workItem from="1602009322745" duration="785000" />
+      <workItem from="1602161173986" duration="1432000" />
+      <workItem from="1602162964250" duration="1774000" />
+      <workItem from="1602164755771" duration="1794000" />
+      <workItem from="1602166759482" duration="2319000" />
+      <workItem from="1602170130475" duration="7160000" />
+      <workItem from="1602237141875" duration="13055000" />
+      <workItem from="1603278876589" duration="37921000" />
+      <workItem from="1604927424694" duration="2020000" />
+      <workItem from="1605260521859" duration="32266000" />
+      <workItem from="1605597394535" duration="8251000" />
+      <workItem from="1605616842437" duration="42809000" />
+      <workItem from="1606210590072" duration="31738000" />
+      <workItem from="1606391267352" duration="10234000" />
+      <workItem from="1606560805626" duration="673000" />
+      <workItem from="1606569370144" duration="1399000" />
+      <workItem from="1606573060624" duration="9929000" />
+      <workItem from="1608942312918" duration="1272000" />
+      <workItem from="1612892225754" duration="14157000" />
+      <workItem from="1612989095767" duration="1698000" />
+    </task>
+    <task id="LOCAL-00001" summary="created ProductList and ProductItem components">
+      <created>1601319900760</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1601319900760</updated>
+    </task>
+    <task id="LOCAL-00002" summary="added styles for AddProduct and Counter components">
+      <created>1601407661723</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1601407661723</updated>
+    </task>
+    <task id="LOCAL-00003" summary="added styles for AddProduct and ProductList components">
+      <created>1602009958934</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1602009958934</updated>
+    </task>
+    <task id="LOCAL-00004" summary="finish up layout and styles &#10;add events for Counter and Products">
+      <created>1602179486845</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1602179486845</updated>
+    </task>
+    <task id="LOCAL-00005" summary="add routes for App">
+      <created>1602246437496</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1602246437496</updated>
+    </task>
+    <task id="LOCAL-00006" summary="add CounterReducer">
+      <created>1603967925110</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1603967925110</updated>
+    </task>
+    <task id="LOCAL-00007" summary="add axios">
+      <created>1605780147541</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1605780147541</updated>
+    </task>
+    <task id="LOCAL-00008" summary="add icon selection">
+      <created>1606242832592</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1606242832592</updated>
+    </task>
+    <task id="LOCAL-00009" summary="add icon selection">
+      <created>1606291543783</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1606291543783</updated>
+    </task>
+    <task id="LOCAL-00010" summary="project done">
+      <created>1606417157313</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1606417157313</updated>
+    </task>
+    <task id="LOCAL-00011" summary="finish refactoring">
+      <created>1606731999331</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1606731999332</updated>
+    </task>
+    <task id="LOCAL-00012" summary="finish refactoring">
+      <created>1612989604739</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1612989604739</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="created ProductList and ProductItem components" />
+    <MESSAGE value="added styles for AddProduct and Counter components" />
+    <MESSAGE value="added styles for AddProduct and ProductList components" />
+    <MESSAGE value="finish up layout and styles &#10;add events for Counter and Products" />
+    <MESSAGE value="add route for App" />
+    <MESSAGE value="add routes for App" />
+    <MESSAGE value="add CounterReducer" />
+    <MESSAGE value="add axios" />
+    <MESSAGE value="add icon selection" />
+    <MESSAGE value="project done" />
+    <MESSAGE value="finish refactoring" />
+    <option name="LAST_COMMIT_MESSAGE" value="finish refactoring" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="530" y="179" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1605601730850">
+      <screen x="62" y="0" width="1474" height="864" />
+    </state>
+    <state x="530" y="179" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/62.0.1474.864@62.0.1474.864" timestamp="1605601730850" />
+    <state x="345" y="0" key="CommitChangelistDialog2" timestamp="1612989601576">
+      <screen x="62" y="0" width="1474" height="864" />
+    </state>
+    <state x="345" y="0" key="CommitChangelistDialog2/62.0.1474.864/1920.0.1366.728@62.0.1474.864" timestamp="1606417155428" />
+    <state x="345" y="0" key="CommitChangelistDialog2/62.0.1474.864@62.0.1474.864" timestamp="1612989601576" />
+    <state x="2400" y="158" key="FileChooserDialogImpl" timestamp="1606574303697">
+      <screen x="1920" y="0" width="1366" height="728" />
+    </state>
+    <state x="2400" y="158" key="FileChooserDialogImpl/62.0.1474.864/1920.0.1366.728@1920.0.1366.728" timestamp="1606574303697" />
+    <state x="580" y="187" key="FileChooserDialogImpl/62.0.1474.864/1920.0.1366.728@62.0.1474.864" timestamp="1606212820126" />
+    <state x="580" y="187" key="FileChooserDialogImpl/62.0.1474.864@62.0.1474.864" timestamp="1605603378978" />
+    <state x="678" y="330" key="Github.ShareDialog" timestamp="1612989317501">
+      <screen x="62" y="0" width="1474" height="864" />
+    </state>
+    <state x="678" y="330" key="Github.ShareDialog/62.0.1474.864@62.0.1474.864" timestamp="1612989317501" />
+    <state x="304" y="92" key="SettingsEditor" timestamp="1606573148198">
+      <screen x="62" y="0" width="1474" height="864" />
+    </state>
+    <state x="304" y="92" key="SettingsEditor/62.0.1474.864/1920.0.1366.728@62.0.1474.864" timestamp="1606573148198" />
+    <state x="392" y="165" key="Vcs.Push.Dialog.v2" timestamp="1606732002469">
+      <screen x="62" y="0" width="1474" height="864" />
+    </state>
+    <state x="392" y="165" key="Vcs.Push.Dialog.v2/62.0.1474.864/1920.0.1366.728@62.0.1474.864" timestamp="1606417160826" />
+    <state x="392" y="165" key="Vcs.Push.Dialog.v2/62.0.1474.864@62.0.1474.864" timestamp="1606732002469" />
+    <state x="456" y="197" key="run.anything.popup" timestamp="1605727090442">
+      <screen x="62" y="0" width="1474" height="864" />
+    </state>
+    <state x="456" y="197" key="run.anything.popup/62.0.1474.864@62.0.1474.864" timestamp="1605727090442" />
+    <state x="2291" y="153" width="623" height="572" key="search.everywhere.popup" timestamp="1606573090818">
+      <screen x="1920" y="0" width="1366" height="728" />
+    </state>
+    <state x="2291" y="153" width="623" height="572" key="search.everywhere.popup/62.0.1474.864/1920.0.1366.728@1920.0.1366.728" timestamp="1606573090818" />
+    <state x="462" y="181" width="672" height="678" key="search.everywhere.popup/62.0.1474.864/1920.0.1366.728@62.0.1474.864" timestamp="1606243242587" />
+    <state x="462" y="181" width="672" height="678" key="search.everywhere.popup/62.0.1474.864@62.0.1474.864" timestamp="1605556006096" />
+  </component>
+</project>
